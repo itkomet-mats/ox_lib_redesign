@@ -1,4 +1,20 @@
-# ox_lib
+# ox_lib - Redesign
+
+## Redesign by Fjella at ensure 
+
+## If you like my work please support at https://ko-fi.com/fjellaa
+
+![](https://ik.imagekit.io/itkomet/Ensure/ox_lib/input_dialog2.PNG?updatedAt=1752063639231)
+![](https://ik.imagekit.io/itkomet/Ensure/ox_lib/context_menu.PNG?updatedAt=1752063639310)
+![](https://ik.imagekit.io/itkomet/Ensure/ox_lib/radial.PNG?updatedAt=1752063639326)
+![](https://ik.imagekit.io/itkomet/Ensure/ox_lib/list_menu.PNG?updatedAt=1752063639273)
+![](https://ik.imagekit.io/itkomet/Ensure/ox_lib/progress.PNG?updatedAt=1752063639210)
+![](https://ik.imagekit.io/itkomet/Ensure/ox_lib/alert.PNG?updatedAt=1752063639207)
+![](https://ik.imagekit.io/itkomet/Ensure/ox_lib/circleprog.PNG?updatedAt=1752063639136)
+![](https://ik.imagekit.io/itkomet/Ensure/ox_lib/skillcheck.PNG?updatedAt=1752063639092)
+![](https://ik.imagekit.io/itkomet/Ensure/ox_lib/textui.PNG?updatedAt=1752063639073)
+![](https://ik.imagekit.io/itkomet/Ensure/ox_lib/notif.PNG?updatedAt=1752063638930)
+
 
 A FiveM library and resource implementing reusable modules, methods, and UI elements.
 
